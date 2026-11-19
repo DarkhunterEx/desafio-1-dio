@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+write_tests_md.py
+write_tests_md2.py
+
+# Sistema de arquivos
+Thumbs.db
+Desktop.ini
